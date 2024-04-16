@@ -1,4 +1,5 @@
-#### Hi, I'm Tawanda M. 
+#### Hi, I'm Tawanda M.
+
 I'm a software developer and UI & UX designer.
 
 ![GitHub User's stars](https://img.shields.io/github/stars/mtnyoni?affiliations=OWNER&logo=GitHub&logoColor=white)
@@ -6,10 +7,10 @@ I'm a software developer and UI & UX designer.
 <br/>
 
 ### Top Languages
+
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" height="30" width="30" /> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" height="30" width="30" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" height="30" width="30" /> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" width="30" />
 <br>
 
-
 ### Trivia
-<a href="https://github.com/mtnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mtnyoni&show_icons=true&include_all_commits=true" alt="mtnyoni's github stats" /></a> <a href="https://github.com/mtnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtnyoni&layout=compact" /></a>
 
+<a href="https://github.com/mtnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mtnyoni&show_icons=true&include_all_commits=true" alt="mtnyoni's github stats" /></a> <a href="https://github.com/mtnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtnyoni&layout=compact" /></a>
