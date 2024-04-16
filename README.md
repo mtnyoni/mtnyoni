@@ -11,5 +11,5 @@ I'm a software developer and UI & UX designer.
 
 
 ### Trivia
-<a href="https://github.com/mtnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mtnyoni&show_icons=true&include_all_commits=true" alt="mtnyoni's github stats" /></a> <a href="https://github.com/tmnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmnyoni&layout=compact" /></a>
+<a href="https://github.com/mtnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mtnyoni&show_icons=true&include_all_commits=true" alt="mtnyoni's github stats" /></a> <a href="https://github.com/mtnyoni"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mtnyoni&layout=compact" /></a>
 
