@@ -1,8 +1,8 @@
 #### Hi, I'm Tawanda M. 
 I'm a software developer and UI & UX designer.
 
-![GitHub User's stars](https://img.shields.io/github/stars/tmnyoni?affiliations=OWNER&logo=GitHub&logoColor=white)
-![GitHub followers](https://img.shields.io/github/followers/tmnyoni?logo=GitHub&logoColor=white)
+![GitHub User's stars](https://img.shields.io/github/stars/mtnyoni?affiliations=OWNER&logo=GitHub&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/mtnyoni?logo=GitHub&logoColor=white)
 <br/>
 
 ### Top Languages
